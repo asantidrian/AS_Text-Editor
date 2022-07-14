@@ -19,8 +19,10 @@ npm start
 
 # Video Gif
 
-[Text Editor Gif](https://drive.google.com/file/d/1mfR0WAacdNtt-oAv58kyzUQ7Vj0UngNE/view)
+[Text Editor Gif](./assets/AS-Text-Editor.gif)
 
-# Contact
-Alicia Santidrian Email: asantidrian83@gmail.com
+
+# ContactAS-Text-Editor.gif
+
+Alicia Santidrian Email: asantidrian83@gmail.com  
 [Text Editor Github](https://github.com/asantidrian/AS_Text-Editor)
