@@ -26,3 +26,4 @@ npm start
 
 Alicia Santidrian Email: asantidrian83@gmail.com  
 [Text Editor Github](https://github.com/asantidrian/AS_Text-Editor)
+[Text Editor Heroku deployed](https://vert-moliere-38279.herokuapp.com/)
